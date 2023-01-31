@@ -10,6 +10,8 @@ const Projects = info.projects.map((project) => project);
 
 <!DOCTYPE html>
 <html lang="en">
+
+
   <head>
     <MetaHead
       title={"Projects"}
@@ -22,10 +24,24 @@ const Projects = info.projects.map((project) => project);
     <Layout>
       <h1 style="line-height: 1.2;">Projects</h1>
       <ProjectsWrapper projects={Projects} />
+        <h1>
+            Practises
+        </h1>
+
+
+    <div class="grid md:grid-cols-4 grid-cols-1 gap-4 my-16">
+      {         <div class="is-content"><div data-content-for="xl"><h2><span class="font_ng65n6sox">Exploratory</span><br></h2><ul><li>User interviews<br></li><li>Research synthesis</li><li>Empathy map</li><li>Proto- persona map<br></li><li>Service blueprint</li></ul></div></div>
+
+          <div class="is-content"><div data-content-for="xl"><h4><span class="font_ng65n6sox">Framing</span></h4><ul><li>User journey map</li><li>Design studio / ideation<br></li><li>Design critique</li><li>Lean experiments<br></li><li>Usability testing<br></li></ul></div></div>
+
+      <h4>Engagements</h4>
+      <h4>Team Building</h4>}
+    </div>
+
+
+
     </Layout>
   </body>
-  <head>
-      title={"Practices"}
-  </head>
+
 
 </html>

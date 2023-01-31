@@ -63,5 +63,29 @@ Python, C++ and Kubernetes, RabbitMQ, Kafka whilst incorporating development pri
       githubUrl: "https://github.com/uzzii-21/astro-portfolio",
       liveUrl: "https://astro-portfolio-uzair.vercel.app/",
     },
+
+    {
+      title: "Recruitment Website",
+      isFeatured: true,
+      thumbnail: "/assets/images/astro-portfolio.png",
+      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
+      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+    },
+
+    {
+      title: "Recruitment Website",
+      isFeatured: true,
+      thumbnail: "/assets/images/astro-portfolio.png",
+      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
+      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+    },
+
+    {
+      title: "Recruitment Website",
+      isFeatured: true,
+      thumbnail: "/assets/images/astro-portfolio.png",
+      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
+      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+    },
   ],
 };
