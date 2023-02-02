@@ -1,11 +1,11 @@
 export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
   name: "Alan Jaison",
-  jobDescription: "Web Developer",
+  jobDescription: "Software Engineer",
   about: `Software Engineer with 1.5+ years of experience leading technological transformation through code and modern development practices. 
 
 I assist companies enable their engineering teams, modernise and build new applications using technologies such as Go, React, Spring boot, 
-Python, C++ and Kubernetes, RabbitMQ, Kafka whilst incorporating development principles such as CI/CD, XP, Agile and TDD.
+Python, C++ and Kubernetes, RabbitMQ whilst incorporating development principles such as CI/CD, XP, Agile and TDD.
   `,
 
   experience: [
@@ -23,69 +23,40 @@ Python, C++ and Kubernetes, RabbitMQ, Kafka whilst incorporating development pri
 
   education: [
     {
-      name: "Surrey",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
+      name: "University of Surrey",
+      location: "Guildford, United Kingdom",
+      startDate: "2018",
       endDate: "2022",
       description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
+        "Bsc,  Computer Internet Engineering ",
       ],
     },
     {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
-    },
-    {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
+      name: "Peter Symond College",
+      location: "Winchester, United Kingdom",
       startDate: "2016",
       endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
+      description: ["Maths, Computer Science, Physics, Economics"],
     },
   ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    facebook: "https://www.linkedin.com/in/alan-jaison-86aa51100/",
+    twitter: "https://www.linkedin.com/in/alan-jaison-86aa51100/",
+    github: "https://github.com/ajaison",
+    email: "ajaison61@googlemail.com",
+    linkedin: "https://www.linkedin.com/in/alan-jaison-86aa51100/",
   },
 
   projects: [
     {
       title: "Recruitment Website",
       isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      thumbnail: "/assets/images/background.png",
+      githubUrl: "https://github.com/ajaison",
+      liveUrl: "https://github.com/ajaison",
     },
 
-    {
-      title: "Recruitment Website",
-      isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
-    },
 
-    {
-      title: "Recruitment Website",
-      isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
-    },
-
-    {
-      title: "Recruitment Website",
-      isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
-    },
   ],
 };
