@@ -11,12 +11,23 @@ Python, C++ and Kubernetes, RabbitMQ whilst incorporating development principles
   experience: [
     {
       name: "VMware",
-      location: "EMEA Remote",
+      location: "Hybrid",
       startDate: "June 2022",
       endDate: "Present",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "- Worked with an Italian client to enable their team to improve the software development process.",
+        "- VMware Aria: Created prototype functionality to find un-orchestrated vSphere instances from Aria Hub.\n" +
+        "Used Spring framework and GraphQL.",
+      ],
+    },
+    {
+      name: "Johnson Controls",
+      location: "EMEA Remote",
+      startDate: "July 2020",
+      endDate: "Aug 2021",
+      description: [
+        "- Designing, Developing, Testing and Debugging C++ based windows software used to manage complex fire systems. Created a new software feature that allowed multiple fire panels to communicate via COM port on the panel.\n" +
+        "- Implementing software updates for and testing electronic hardware",
       ],
     },
   ],
@@ -32,7 +43,7 @@ Python, C++ and Kubernetes, RabbitMQ whilst incorporating development principles
       ],
     },
     {
-      name: "Peter Symond College",
+      name: "Peter Symonds College",
       location: "Winchester, United Kingdom",
       startDate: "2016",
       endDate: "2018",
